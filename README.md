@@ -10,6 +10,6 @@ You should include the files inside your project and use a Ghostscript Node js p
 
 This is an npm package to call Ghostscript functions:
 
-https://github.com/sina-masnadi/node-gs
+https://github.com/CarneyC/node-gs
 
 After copying the compiled Ghostscript files to your project and adding the npm package, you can use the executablePath('path to ghostscript') function to point the package to the compiled Ghostscript files that you added earlier.
